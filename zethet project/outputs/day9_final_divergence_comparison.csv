@@ -1,0 +1,5 @@
+Model,Average_Divergence
+Ensemble,0.27840313451682397
+XGBoost,1.038104376679487
+Random Forest,1.5147024392397759
+Neural Network,2.0441388532195335

@@ -1,0 +1,8 @@
+Metric,Value,Explanation
+Initial 10Y G-Sec Yield (%),7.47,10Y G-Sec yield at beginning of case period
+Final 10Y G-Sec Yield (%),6.14,10Y G-Sec yield at end of case period
+Actual Yield Change (bps),-133.0,Calculated from initial and final yield
+Estimated Duration P&L (INR),1792168.6663618996,Duration-based estimated P&L
+Estimated Convexity P&L (INR),124935.03915869787,Convexity adjustment
+Estimated Total P&L (INR),1917103.7055205975,Duration + convexity estimate
+Actual Portfolio P&L (INR),,Not available for this specific portfolio

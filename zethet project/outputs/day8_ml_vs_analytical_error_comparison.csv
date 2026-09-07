@@ -1,0 +1,4 @@
+Model,Mean_Absolute_Error
+Random Forest,1.9426840083333263
+XGBoost,1.6387884039306642
+Neural Network,1.5332184289124529

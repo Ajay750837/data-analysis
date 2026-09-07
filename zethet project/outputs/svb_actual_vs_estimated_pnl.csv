@@ -1,0 +1,8 @@
+Metric,Value,Explanation
+Initial 2Y Treasury Yield (%),4.71,Market yield at start of selected event window
+Final 2Y Treasury Yield (%),4.6,Market yield at end of selected event window
+Observed Yield Change (bps),-11.000000000000032,Calculated from Treasury yields
+Estimated Duration P&L (INR),148224.47616527032,Duration-based project portfolio estimate
+Estimated Convexity P&L (INR),854.6068029963552,Convexity adjustment to project portfolio estimate
+Estimated Total P&L (INR),149079.08296826668,Duration + convexity estimated P&L
+SVB Actual AFS Securities Loss (USD bn),1.8,Reported after-tax loss on SVB AFS securities sale

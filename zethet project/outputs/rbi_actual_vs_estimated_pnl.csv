@@ -1,0 +1,8 @@
+Metric,Value,Note
+Initial 10Y G-Sec Yield (%),6.84,RBI reported benchmark yield
+Final 10Y G-Sec Yield (%),7.31,RBI reported benchmark yield
+Actual Yield Change (bps),46.99999999999997,Calculated from initial and final yield
+Estimated Duration P&L (INR),-633322.7617970619,Duration approximation
+Estimated Convexity P&L (INR),15601.871304288727,Convexity adjustment
+Estimated Total P&L (INR),-617720.8904927731,Duration + convexity estimate
+Actual Portfolio P&L (INR),,Not available for this specific portfolio
